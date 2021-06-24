@@ -95,7 +95,7 @@ public class TextController : MonoBehaviour
         SceneManager.LoadScene("title");
     }
 
-    //SuocreTreeの試しガキ
+    
 
 
 }
